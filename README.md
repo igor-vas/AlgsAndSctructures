@@ -1,4 +1,4 @@
-# AlgsAndSctructures
+# AlgsAndStructs
 Basic algorithms and data structures
 
 ### Data structures
